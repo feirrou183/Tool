@@ -55,7 +55,7 @@ def canConnect():
 
 if __name__ == "__main__":
     user = "322159"  # 输入账号
-    pw = "ta27365363PE"  # 输入密码
+    pw = "**********"  # 输入密码
 
     while True:
         can_connect = canConnect()
